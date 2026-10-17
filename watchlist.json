@@ -1,0 +1,20 @@
+{
+  "ema_watchlist": {
+    "RELIANCE": "2885",
+    "TCS": "11536",
+    "HDFCBANK": "1333"
+  },
+  
+  "rsi_watchlist": {
+    "TATAMOTORS": "3456",
+    "SBIN": "3045"
+  },
+  
+  "cpr_watchlist": {
+    "RELIANCE": "2885"
+  },
+  
+  "fall_watchlist": {
+    "YESBANK": "11915"
+  }
+}
